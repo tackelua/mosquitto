@@ -1,0 +1,3 @@
+#md5(sha1(user) + 'gith')
+gith:7eeb6d163a8408ed32d51f02697ec480
+mushroom:3d8ca7e2fe7898a06b40e659c422e5ab
